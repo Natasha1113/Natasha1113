@@ -1,6 +1,4 @@
 
-<!--
-**Natasha1113/Natasha1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 🔭 I’m currently working on projects for my portfolio<br>👯 I’m looking to collaborate on iOS projects<br>🤝 I’m looking for help with backend languages<br>🌱 I’m currently learning Node.js<br>💬 Ask me about SwiftUI<br>⚡ Fun fact - I love everything Harry Potter
