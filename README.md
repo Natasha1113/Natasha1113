@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Natasha1113/Natasha1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
